@@ -1,0 +1,7 @@
+name: DoubleShulkerShells
+version: 1.0
+main: tools.tgb.DoubleShulkerShells.DoubleShulkerShells
+description: Simple plugin to drop double shulker shells
+api-version: 1.15
+author: tgb
+website: tgb.tools
